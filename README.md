@@ -87,7 +87,7 @@ dandiset = client.get_dandiset('000017')
 
 ---
 
-## Key Concepts (for interview prep)
+## Key Concepts 
 
 **Why PCA before decoding?**  
 Dimensionality reduction prevents overfitting, removes noise, and reveals the low-dimensional subspace where choice information lives. The fact that 11 PCs out of 778 neurons captures most signal tells us the population encodes choice in a structured, low-dimensional way — consistent with the "neural manifold" hypothesis.
